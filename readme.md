@@ -10,3 +10,4 @@
 5. `touch` - Creates a new empty file
 6. `cp` - Copies files or directories
 7. `mv` - Moves or renames files and directories
+8. `cp` - Copies files or directories
