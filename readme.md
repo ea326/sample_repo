@@ -17,4 +17,4 @@
 12. `cat` - Displays the contents of a file
 13. `git status` - Shows the state of the working directory and staging area
 14. `git add` - Stages changes to be committed
-
+15. `git commit` - Records staged changes to the repository
