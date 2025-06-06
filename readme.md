@@ -14,4 +14,5 @@
 9. `rm` - Removes files or directories
 10. `man` - Displays the manual for a command
 11. `echo` - Displays a line of text or variable value
+12. `cat` - Displays the contents of a file
 
