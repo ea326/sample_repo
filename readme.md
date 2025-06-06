@@ -6,3 +6,4 @@
 
 2. `pwd` - Prints the current working directory
 3. `mkdir` - Creates a new directory
+4. `cd` - Changes the current directory
