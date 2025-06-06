@@ -15,4 +15,5 @@
 10. `man` - Displays the manual for a command
 11. `echo` - Displays a line of text or variable value
 12. `cat` - Displays the contents of a file
+13. `git status` - Shows the state of the working directory and staging area
 
