@@ -8,3 +8,4 @@
 3. `mkdir` - Creates a new directory
 4. `cd` - Changes the current directory
 5. `touch` - Creates a new empty file
+6. `cp` - Copies files or directories
