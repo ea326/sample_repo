@@ -12,3 +12,5 @@
 7. `mv` - Moves or renames files and directories
 8. `cp` - Copies files or directories
 9. `rm` - Removes files or directories
+10. `man` - Displays the manual for a command
+
