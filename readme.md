@@ -9,3 +9,4 @@
 4. `cd` - Changes the current directory
 5. `touch` - Creates a new empty file
 6. `cp` - Copies files or directories
+7. `mv` - Moves or renames files and directories
