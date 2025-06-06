@@ -13,4 +13,5 @@
 8. `cp` - Copies files or directories
 9. `rm` - Removes files or directories
 10. `man` - Displays the manual for a command
+11. `echo` - Displays a line of text or variable value
 
